@@ -1,0 +1,65 @@
+body {
+	background: #483D8B;
+	font-family: 'Raleway', sans-serif;
+	color: #EBE4AD;
+	letter-spacing: 1.5px;
+}
+
+main {
+	max-width: 1900px;
+}
+
+
+h1 {
+	text-align: center;
+    margin: 80px 0;
+    font-size: 70px;
+}
+
+h2 {
+	font-size: 35px;
+	line-height: 1.4;
+}
+
+.searchengine {
+	width: 700px;
+	margin: 0 auto;
+	text-align: center;
+}
+
+input, button {
+	background-color: transparent;
+	border: 1px solid #EBE4AD;
+    color: #EBE4AD;
+    line-height: 37px;
+    font-size: 25px;
+    font-family: inherit;
+    outline: 0; 
+}
+
+button:hover {
+	background-color: #EBE4AD;
+	color: #233034;
+	cursor: pointer;
+}
+
+button {	
+	width: 260px;
+    height: 40px;
+    margin: 40px 0;
+}
+
+input {
+	width: 500px;
+	text-align: center;
+}
+
+#countries {
+	max-width: 50%;
+    margin: 0 auto;
+}
+
+li {
+	line-height: 2;
+	padding: 20px 0;
+}
